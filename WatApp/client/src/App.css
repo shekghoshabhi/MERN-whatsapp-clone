@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+}
+
+.App{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #519872;
+}
+
+.box{
+  display:flex ;
+  height: 99vh;
+  width: 97vw;
+  background-color: #f7f7f7;
+}
+

@@ -1,0 +1,23 @@
+/* *{
+    margin:2px;
+} */
+.singleChat{
+    
+    /* margin:1rem; */
+    padding:20px;
+    display:flex;
+    border-bottom: 1px solid #d4d7dd;
+    
+    /* justify-content: space-evenly; */
+}
+.singleChat:hover{
+    background-color: #dfdfdf
+}
+.name > h3{
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+.name{
+    margin-left:15px;
+}
+
